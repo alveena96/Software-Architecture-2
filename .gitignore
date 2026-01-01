@@ -1,5 +1,5 @@
-/out/
+##/out/
 /bin/
 /.vscode/
-/output/*
+##/output/*
 !.gitkeep

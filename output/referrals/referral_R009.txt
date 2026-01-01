@@ -1,0 +1,13 @@
+REFERRAL LETTER
+Referral ID: R009
+Date: 2025-09-13 | Urgency: Routine
+
+Patient: Elizabeth Anderson (P010)
+DOB: 1987-08-30 | NHS: 0123456789
+Postcode: B14 0JJ
+
+Reason: Diabetes complications screening
+Summary: 38-year-old female with Type 2 diabetes requiring annual cardiovascular risk assessment. HbA1c slightly elevated.
+Investigations: Diabetic retinal screening|Cardiovascular assessment
+
+Status: Pending
